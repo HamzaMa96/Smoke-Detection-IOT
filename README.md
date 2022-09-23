@@ -28,18 +28,18 @@ etc.
 The dataset is nearly 60.000 readings long. The sample rate is 1Hz for all sensors. To keep track of the data, a UTC timestamp is added to every sensor reading.
 
 # Features
-UTC: Time Stamp
-Temperature: Air Temperature
-Humidity%: Air Humidity
-TVOC[ppb]: Total Volatile Organic Compounds; measured in parts per billion
-eCO2[ppm]: co2 equivalent concentration; calculated from different values like TVCO
-Raw H2: raw molecular hydrogen; not compensated (Bias, temperature, etc.)
-Raw Ethanol: raw ethanol gas
-Pressure[hPa]: Air Pressure
-PM1.0: particulate matter size < 1.0 µm (PM1.0). 1.0 µm < 2.5 µm (PM2.5)
-PM2.5: particulate matter size < 1.0 µm (PM1.0). 1.0 µm < 2.5 µm (PM2.5)
-NC0.5: Number concentration of particulate matter. This differs from PM because NC gives the actual number of particles in the air
-NC1.0: Number concentration of particulate matter. This differs from PM because NC gives the actual number of particles in the air
-Number concentration of particulate matter. This differs from PM because NC gives the actual number of particles in the air
-CNT: Sample counter.
-Fire Alarm: Ground truth is "1" if a fire is there.
+UTC: Time Stamp<br>
+Temperature: Air Temperature<br>
+Humidity%: Air Humidity<br>
+TVOC[ppb]: Total Volatile Organic Compounds; measured in parts per billion<br>
+eCO2[ppm]: co2 equivalent concentration; calculated from different values like TVCO<br>
+Raw H2: raw molecular hydrogen; not compensated (Bias, temperature, etc.)<br>
+Raw Ethanol: raw ethanol gas<br>
+Pressure[hPa]: Air Pressure<br>
+PM1.0: particulate matter size < 1.0 µm (PM1.0). 1.0 µm < 2.5 µm (PM2.5)<br>
+PM2.5: particulate matter size < 1.0 µm (PM1.0). 1.0 µm < 2.5 µm (PM2.5)<br>
+NC0.5: Number concentration of particulate matter. This differs from PM because NC gives the actual number of particles in the air<br>
+NC1.0: Number concentration of particulate matter. This differs from PM because NC gives the actual number of particles in the air<br>
+Number concentration of particulate matter. This differs from PM because NC gives the actual number of particles in the air<br>
+CNT: Sample counter.<br>
+Fire Alarm: Ground truth is "1" if a fire is there.<br>
