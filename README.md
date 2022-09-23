@@ -27,7 +27,7 @@ Outdoor high humidity
 etc.
 The dataset is nearly 60.000 readings long. The sample rate is 1Hz for all sensors. To keep track of the data, a UTC timestamp is added to every sensor reading.
 
-#Features
+# Features
 UTC: Time Stamp
 Temperature: Air Temperature
 Humidity%: Air Humidity
