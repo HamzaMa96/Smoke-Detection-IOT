@@ -43,4 +43,3 @@ NC1.0: Number concentration of particulate matter. This differs from PM because 
 Number concentration of particulate matter. This differs from PM because NC gives the actual number of particles in the air
 CNT: Sample counter.
 Fire Alarm: Ground truth is "1" if a fire is there.
-![image](https://user-images.githubusercontent.com/76901476/192028988-2591d2d3-e965-4c13-b5ca-893da7268fa0.png)
