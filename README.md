@@ -1,5 +1,5 @@
 # Smoke-Detection-IOT
-#Quick Start Guide
+# Quick Start Guide
 Problem Type : Binary Classification
 Target Variable : Fire Alarm
 
